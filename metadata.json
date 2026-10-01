@@ -1,0 +1,8 @@
+{
+  "uuid": "quota-panel@extensions.local",
+  "name": "Quota Panel",
+  "description": "Cuotas de Codex, Antigravity Gemini y OpenCode Go en el panel superior.",
+  "shell-version": ["46"],
+  "version": 1,
+  "settings-schema": "org.gnome.shell.extensions.quota-panel"
+}

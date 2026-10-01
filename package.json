@@ -1,0 +1,11 @@
+{
+  "name": "quota-panel",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -v && node tests/ui-model.test.mjs && gjs -m tests/gjs-model.js",
+    "build": "python3 scripts/build.py",
+    "test:shell": "python3 tests/shell-smoke.py",
+    "security:check": "python3 scripts/security-check.py --working-tree"
+  }
+}

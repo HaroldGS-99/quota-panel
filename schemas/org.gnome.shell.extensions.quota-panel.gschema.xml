@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.quota-panel" path="/org/gnome/shell/extensions/quota-panel/">
+    <key name="refresh-seconds" type="i"><default>60</default><range min="30" max="900"/><summary>Intervalo de actualización</summary></key>
+    <key name="warning-percent" type="i"><default>70</default><range min="1" max="98"/><summary>Umbral amarillo</summary></key>
+    <key name="critical-percent" type="i"><default>90</default><range min="2" max="100"/><summary>Umbral rojo</summary></key>
+    <key name="codex-path" type="s"><default>''</default><summary>Ruta opcional del ejecutable Codex</summary></key>
+    <key name="agy-path" type="s"><default>''</default><summary>Ruta opcional del ejecutable agy</summary></key>
+  </schema>
+</schemalist>

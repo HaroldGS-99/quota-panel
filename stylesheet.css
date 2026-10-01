@@ -1,0 +1,22 @@
+.pq-panel { spacing: 14px; }
+.pq-segment { spacing: 6px; }
+.pq-panel-percent { font-size: 10pt; min-width: 32px; text-align: right; }
+.pq-icon { margin: 0; }
+.pq-scroll { max-height: 640px; }
+.pq-content { width: 352px; }
+.pq-section { padding: 12px 8px 14px; spacing: 7px; border-bottom: 1px solid rgba(160,160,160,0.16); }
+.pq-header { spacing: 9px; }
+.pq-title { font-size: 12pt; font-weight: bold; }
+.pq-quota { spacing: 6px; padding-top: 7px; }
+.pq-quota-list { spacing: 7px; }
+.pq-window { font-size: 10pt; }
+.pq-value { font-size: 10pt; font-weight: bold; }
+.pq-normal { color: #2ec47d; }
+.pq-warning { color: #f5c240; }
+.pq-critical { color: #f25259; }
+.pq-unknown { color: #899099; }
+.pq-muted { font-size: 9pt; }
+.pq-timing { spacing: 8px; }
+.pq-status { font-size: 9pt; }
+.pq-resets { font-size: 9pt; padding-top: 4px; }
+.pq-age { font-size: 8pt; padding-top: 4px; }

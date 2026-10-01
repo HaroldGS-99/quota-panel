@@ -1,0 +1,24 @@
+dist/
+__pycache__/
+*.pyc
+schemas/gschemas.compiled
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+
+# Account data and generated diagnostics
+.ssh/
+.cache/
+node_modules/
+*.log
+*.pem
+*.key
+.npmrc
+.netrc
+auth.json
+oauth_creds.json
+quotas.json
+id_rsa
+id_ed25519
